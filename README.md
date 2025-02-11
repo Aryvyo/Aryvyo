@@ -6,7 +6,5 @@ aryas
 <br/>
 
 
-if you think what i do is cool >.<
-<br/>
-btc address: bc1qltsglnntvx9vee8khg5sr2mghkaq36eucc9wr5<br/>
-eth address: 0x80a65Dbb3b08B5B032EA66333A000C9a5e786767
+
+
